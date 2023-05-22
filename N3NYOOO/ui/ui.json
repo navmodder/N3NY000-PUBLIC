@@ -1,0 +1,68 @@
+{
+    "ANIMATED_GIF_DELAY": 30,
+    "AUTO_DPI": true,
+	"STATS_POS": 0,
+    "DPI": 1.0,
+	"MENU_KEY": 115,
+	"SPOONER_KEY": 117,
+    "Footer": {
+        "footer_arrows_rgba": [
+            255,
+            255,
+            255,
+            255
+        ],
+        "footer_rgba": [
+            0,
+            0,
+            0,
+            255
+        ]
+    },
+    "Header_Type": 1,
+    "INFO_BAR": false,
+    "X": -739550.0,
+    "Y": 180050.0,
+    "header": {
+        "color": [
+            255,
+            255,
+            255,
+            255
+        ]
+    },
+    "option": {
+        "background": [
+            0,
+            0,
+            0,
+            206
+        ],
+        "borders": [
+            0,
+            120,
+            255,
+            170
+        ],
+        "selected_option": [
+            0,
+            120,
+            255,
+            230
+        ],
+        "text": {
+            "text_rgba": [
+                255,
+                255,
+                255,
+                255
+            ],
+            "text_rgba_active": [
+                0,
+                0,
+                0,
+                255
+            ]
+        }
+    }
+}
