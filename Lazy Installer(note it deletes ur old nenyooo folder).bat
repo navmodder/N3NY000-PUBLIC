@@ -1,3 +1,0 @@
-if exist c:\N3NYOOO del c:\N3NYOOO
-
-ROBOCOPY "N3NYOOO" "C:\N3NYOOO" /mir
